@@ -1,0 +1,31 @@
+.carousel-caption {
+    top: 350px;;
+    bottom: auto;
+}
+
+#bottom1 {
+    background-color: black;
+
+
+    margin: 50px;
+    text-align: center;
+    
+    
+    font-family: Arial;
+    color: white;
+    font-size: 16px;
+    font-weight: 100;
+    line-height: 7;
+    width:1300px;
+    letter-spacing: 1px;
+}
+
+
+#errormessage{
+
+    
+    line-height: 0;
+    
+    font-size: 45px;
+
+}
